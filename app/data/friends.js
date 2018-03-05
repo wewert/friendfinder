@@ -1,7 +1,7 @@
 var friendList = [
   {
     name: 'The Colossus',
-    profilePic: 'http://l7.alamy.com/zooms/79087bebb44546588230fb965f9bf922/the-colossus-of-new-york-1958-eugene-lourie-dir-clny-002-moviestore-danafj.jpg',
+    image: 'http://l7.alamy.com/zooms/79087bebb44546588230fb965f9bf922/the-colossus-of-new-york-1958-eugene-lourie-dir-clny-002-moviestore-danafj.jpg',
     scores: [
       "5",
       "4",
@@ -17,7 +17,7 @@ var friendList = [
   },
   {
     name: 'Tobor',
-    profilePic: 'https://s-media-cache-ak0.pinimg.com/originals/e0/10/2b/e0102b85cc33824f9240d5d2239914d4.jpg',
+    image: 'https://s-media-cache-ak0.pinimg.com/originals/e0/10/2b/e0102b85cc33824f9240d5d2239914d4.jpg',
     scores: [
       "3",
       "4",
@@ -33,7 +33,7 @@ var friendList = [
   },
   {
     name: 'Chani',
-    profilePic: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPtakrhR1BqD1tpFGo04SxSsnSTYRilgCA2WHhKv1C_0Tipb9X',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPtakrhR1BqD1tpFGo04SxSsnSTYRilgCA2WHhKv1C_0Tipb9X',
     scores: [
       "2",
       "3",
@@ -49,7 +49,7 @@ var friendList = [
   },
   {
     name: 'Box',
-    profilePic: 'http://www.jeffbots.com/logansrun6.jpg',
+    image: 'http://www.jeffbots.com/logansrun6.jpg',
     scores: [
       "5",
       "1",
@@ -65,7 +65,7 @@ var friendList = [
   },
   {
     name: 'Steel',
-    profilePic: 'https://i.pinimg.com/736x/37/ce/46/37ce46d5c873bd1439337e020dfc60af--sci-fi-horror-movies-rude-mechanicals.jpg',
+    image: 'https://i.pinimg.com/736x/37/ce/46/37ce46d5c873bd1439337e020dfc60af--sci-fi-horror-movies-rude-mechanicals.jpg',
     scores: [
       "3",
       "4",
@@ -81,7 +81,7 @@ var friendList = [
   },
   {
     name: 'The Annihlatons',
-    profilePic: 'https://cdn.pastemagazine.com/www/articles/53-Best-100-Robots-in-Film-Annihilatons.jpg',
+    image: 'https://cdn.pastemagazine.com/www/articles/53-Best-100-Robots-in-Film-Annihilatons.jpg',
     scores: [
       "3",
       "1",
@@ -97,7 +97,7 @@ var friendList = [
   },
   {
     name: 'Venusian',
-    profilePic: 'https://s-media-cache-ak0.pinimg.com/originals/60/36/1f/60361ff518b4658126a3f0181d662923.jpg',
+    image: 'https://s-media-cache-ak0.pinimg.com/originals/60/36/1f/60361ff518b4658126a3f0181d662923.jpg',
     scores: [
       "2",
       "4",
@@ -113,7 +113,7 @@ var friendList = [
   },
   {
     name: 'Maria',
-    profilePic: 'https://monstersfilmandlit.files.wordpress.com/2013/11/maria.jpg',
+    image: 'https://monstersfilmandlit.files.wordpress.com/2013/11/maria.jpg',
     scores: [
       "3",
       "3",
@@ -129,7 +129,7 @@ var friendList = [
   },
   {
     name: 'The Mechanical Men',
-    profilePic: 'https://i.ytimg.com/vi/ruTNAbX5TDI/hqdefault.jpg',
+    image: 'https://i.ytimg.com/vi/ruTNAbX5TDI/hqdefault.jpg',
     scores: [
       "1",
       "3",
@@ -145,7 +145,7 @@ var friendList = [
   },
   {
     name: 'Kronos',
-    profilePic: 'http://www.monsterbashnews.com/Morepics/Kronos-Eater.jpg',
+    image: 'http://www.monsterbashnews.com/Morepics/Kronos-Eater.jpg',
     scores: [
       "1",
       "5",
